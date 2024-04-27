@@ -7,7 +7,7 @@ The Strategy Pattern is used to define a family of algorithms,
 encapsulate each one of them, and make them interchangeable. 
 This pattern lets the algorithm vary independently of clients that use it.
 
-![img.png](../Assets/stratergyDesignPattern.png)
+![img.png](../../Assets/stratergyDesignPattern.png)
 
 Code Output
 ```agsl
