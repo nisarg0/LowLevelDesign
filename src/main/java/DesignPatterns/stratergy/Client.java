@@ -1,4 +1,4 @@
-package DesignPatterns.stratergyDesignPattern;
+package DesignPatterns.stratergy;
 
 
 

@@ -1,4 +1,4 @@
-package DesignPatterns.decoratorDesignPattern;
+package DesignPatterns.decorator;
 
 abstract class BasePizza {
     public abstract int cost();
