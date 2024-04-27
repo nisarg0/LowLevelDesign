@@ -8,7 +8,8 @@ Note:
 
 #### This pattern helps us from class explosion.
 
-![img.png](../../Assets/decoratorDesignPattern.png)
+![img.png](../../Assets/Decorator.png)
+
 Cruz of this pattern is decorator is a base class and has a base class. Hence it becomes extensible.
 
 More toppings can easily be added.
