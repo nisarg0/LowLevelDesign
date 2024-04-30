@@ -36,7 +36,7 @@ enum ElevatorState {
 class ElevatorController {
 
     Elevator elevation; // Elevator controller has a elevator(1 controller per elevator)
-    boolean acceptNewReq(int desFloor, Direction dir){}; //
+    boolean acceptNewReq(int desFloor, Direction dir){ return true;}
     void controlElevator(){}; // This method controls the elevator
 }
 
