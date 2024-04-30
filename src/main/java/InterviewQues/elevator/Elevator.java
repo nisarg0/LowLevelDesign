@@ -26,7 +26,7 @@ public class Elevator {
     ElevatorState state;
     int currentFloor;
 
-    boolean move(int destination, Direction direction){}; // Its a dumb object so it'll start moving in the direction and stop at dest
+    boolean move(int destination, Direction direction){ return true;}; // It's a dumb object, it'll start moving in the direction and stop at dest
 }
 
 enum ElevatorState {
